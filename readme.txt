@@ -1,7 +1,7 @@
 3416462069 a12345678
 九五嘉首页底部图片改错了！
 
-
+this is origin commit
 
 Git is a distributed version control system
 
@@ -332,4 +332,3 @@ OA-做人力资源共享系统-OA展示图标
 Git
 this is first test!
 
-this is origin commit
