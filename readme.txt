@@ -1,6 +1,8 @@
 3416462069 a12345678
 九五嘉首页底部图片改错了！
 
+this is test origin commit
+
 this is origin commit
 
 Git is a distributed version control system
